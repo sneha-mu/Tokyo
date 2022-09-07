@@ -8,3 +8,4 @@ Clone the folders into the repo using git clone <url> Folder name
 Create files under the folder
 Commits happens in the JOHN folder
 Delete the local branch
+commits are added
