@@ -5,5 +5,5 @@ Enter the repository name in the Repository name field
 Provide access to the users or collabrators
 Create a repo by clicking create repository
 Clone the folders into the repo using git clone <url> Folder name
-
+Create files under the folder
 
