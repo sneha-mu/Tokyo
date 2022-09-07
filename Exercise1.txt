@@ -6,3 +6,4 @@ Clone the folder using the link
 Create a file under the folder
 Add the files into the folders
 Create branch for the folders
+Switch and merge the branch
