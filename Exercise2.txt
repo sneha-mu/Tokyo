@@ -1,4 +1,4 @@
-Git - Global Information Tracker
+
 GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code.
 create a new repository using Create repository
 Provide access to the repository such as private or public.
