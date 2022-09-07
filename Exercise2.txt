@@ -1,7 +1,7 @@
 
 
 
-Check the status of the folder and clone the folder
+
 create files under the folder
 Add the files into git using git add .
 Check the status of files using git log --oneline --all --graph
