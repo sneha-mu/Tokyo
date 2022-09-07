@@ -2,6 +2,5 @@
 
 
 
-
-Delete the local branch 
+ 
 Changes are created and files are modified
