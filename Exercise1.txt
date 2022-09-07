@@ -6,5 +6,5 @@
 
 
 
-Switch and merge the branch
+
 Commit the changes into the files
