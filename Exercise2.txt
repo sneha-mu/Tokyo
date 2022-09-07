@@ -7,3 +7,4 @@ create files under the folder
 Add the files into git using git add .
 Check the status of files using git log --oneline --all --graph
 create a branch and View the status of the branch that was created
+Delete the local branch 
