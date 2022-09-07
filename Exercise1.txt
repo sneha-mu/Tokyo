@@ -1,6 +1,6 @@
 
 
-Enter the required details such as private access or private access
+
 create repository
 Clone the folder using the link
 Create a file under the folder
