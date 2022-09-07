@@ -5,6 +5,6 @@
 
 
 
-Create branch for the folders
+
 Switch and merge the branch
 Commit the changes into the files
