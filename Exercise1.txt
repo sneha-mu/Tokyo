@@ -2,5 +2,5 @@ Create a new repository using create repository
 Enter the repository name in the column named repository name 
 Enter the required details such as private access or private access
 create repository
-Create
+Clone the folder using the link
 
